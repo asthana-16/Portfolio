@@ -145,7 +145,7 @@ function App() {
               <p className="hero-summary">{personalInfo.summary}</p>
 
               <div className="mt-8 flex flex-wrap gap-3">
-                <a className="btn-primary" href="/Abhinav_Asthana_Resume.txt" download>
+                <a className="btn-primary" href="/Abhinav_CV(New).pdf" download>
                   <FaDownload />
                   View Resume
                 </a>
