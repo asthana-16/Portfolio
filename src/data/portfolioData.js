@@ -62,6 +62,17 @@ export const skillGroups = [
 
 export const projects = [
   {
+    title: 'DhanAi - Your Finance Tracker',
+    date: '2026',
+    description:
+      'Built an AI-assisted personal finance tracking platform focused on clean dashboards, smart categorization, and practical money insights.',
+    impact:
+      'Integrated modern full-stack tooling for secure auth, transaction workflows, and AI-powered financial assistance to improve everyday budgeting decisions.',
+    stack: ['Next.js', 'React', 'MongoDB', 'Clerk', 'Google Gemini', 'Tailwind CSS'],
+    github: 'https://github.com/asthana-16/DhanAi-Your-Finance-Tracker',
+    live: null,
+  },
+  {
     title: 'AI Dog Training Assistant',
     date: '2024',
     description:
